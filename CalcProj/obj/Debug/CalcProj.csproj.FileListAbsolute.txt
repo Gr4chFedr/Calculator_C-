@@ -1,0 +1,11 @@
+D:\GrachTeam\Calculator_C-\CalcProj\bin\Debug\CalcProj.exe.config
+D:\GrachTeam\Calculator_C-\CalcProj\bin\Debug\CalcProj.exe
+D:\GrachTeam\Calculator_C-\CalcProj\bin\Debug\CalcProj.pdb
+D:\GrachTeam\Calculator_C-\CalcProj\obj\Debug\CalcProj.csproj.AssemblyReference.cache
+D:\GrachTeam\Calculator_C-\CalcProj\obj\Debug\CalcProj.csproj.SuggestedBindingRedirects.cache
+D:\GrachTeam\Calculator_C-\CalcProj\obj\Debug\CalcProj.CalcWindow.resources
+D:\GrachTeam\Calculator_C-\CalcProj\obj\Debug\CalcProj.Properties.Resources.resources
+D:\GrachTeam\Calculator_C-\CalcProj\obj\Debug\CalcProj.csproj.GenerateResource.cache
+D:\GrachTeam\Calculator_C-\CalcProj\obj\Debug\CalcProj.csproj.CoreCompileInputs.cache
+D:\GrachTeam\Calculator_C-\CalcProj\obj\Debug\CalcProj.exe
+D:\GrachTeam\Calculator_C-\CalcProj\obj\Debug\CalcProj.pdb

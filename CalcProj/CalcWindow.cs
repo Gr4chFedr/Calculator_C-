@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CalcProj
 {
-    public partial class Form1 : Form
+    public partial class CalcWindow : Form
     {
-        public Form1()
+        public CalcWindow()
         {
             InitializeComponent();
         }

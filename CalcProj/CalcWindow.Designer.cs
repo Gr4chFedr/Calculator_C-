@@ -1,6 +1,6 @@
 ﻿namespace CalcProj
 {
-    partial class Form1
+    partial class CalcWindow
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CalcWindow));
+            this.SuspendLayout();
+            // 
+            // CalcWindow
+            // 
+            resources.ApplyResources(this, "$this");
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.Name = "CalcWindow";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
