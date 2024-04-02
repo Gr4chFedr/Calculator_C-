@@ -16,5 +16,7 @@ namespace CalcProj
         {
             InitializeComponent();
         }
+
+        //Считывание и разбиение строки
     }
 }
